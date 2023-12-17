@@ -13,5 +13,5 @@ I also changed data using the proxy server for website on Google Chrome <b> with
 <ul>
 <li>  <a href="https://drive.google.com/file/d/1bR0Oafc64AU9Lhx0eHME5rFVJPIH5Qlt/view?usp=drive_link"> Deleting items from the cart. </li> 
 <li>  <a href="https://drive.google.com/file/d/1CMoeQtrj1S4Q9KqcQeho29aEB5TqVl46/view?usp=drive_link"> Replacing website with a picture. </a>  </li> 
-<li>  <a href="https://drive.google.com/file/d/1W3f_JkeZZyEOmidZ_pnXi-hOhWOXnVWx/view?usp=drive_link"> Finding user agent in headers.</a> </li> 
+<li>  <a href="https://drive.google.com/file/d/1W3f_JkeZZyEOmidZ_pnXi-hOhWOXnVWx/view?usp=drive_link"> Finding and changing user agent in headers.</a> </li> 
  </ul>
